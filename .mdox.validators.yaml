@@ -1,0 +1,3 @@
+validators:
+  - regex: 'http(s|)://.*'
+    type: 'ignore'
